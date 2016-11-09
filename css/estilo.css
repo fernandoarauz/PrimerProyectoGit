@@ -9,11 +9,11 @@ img{
 	max-width: 100%;
 }
 
-.fondo{
-
-}
-
 .saludo{
 	text-align: center;
 	font-size: 24px;
+}
+
+h2.saludo{
+	font-size: 20px;
 }
