@@ -2,8 +2,11 @@ body{
 	padding-right: 12px;
 	background-image: url("../img/fondo.jpg");
 	background-repeat: no-repeat;
-	background-clip: content-box;
+	background-attachment: fixed;
+}
 
+img{
+	max-width: 100%;
 }
 
 .fondo{
