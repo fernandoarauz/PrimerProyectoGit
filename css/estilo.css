@@ -16,4 +16,9 @@ img{
 
 h2.saludo{
 	font-size: 20px;
+	font-style: italic;
+}
+
+h3.saludo{
+	font-size: 17px;
 }
